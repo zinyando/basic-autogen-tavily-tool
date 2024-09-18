@@ -2,7 +2,7 @@
 
 ## Blog post
 
-[Coding Your First AutoGen Tool: Tavily Search Walkthrough](https://www.zinyando.com/)
+[Coding Your First AutoGen Tool: Tavily Search Walkthrough](https://www.zinyando.com/coding-your-first-autogen-tool-tavily-search-walkthrough/)
 
 ## Installation
 
